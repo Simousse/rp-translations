@@ -102,7 +102,7 @@ local my_language = {
 	paint_spray = "Bombe de peinture",
 	tag_paint_spray = "Bombe de peinture à tag",
 	hacking_phone = "Nokia piratage",
-	lspd_outfit = "Tenue SAPD",
+	lspd_outfit = "Tenue LSPD",
 	lssd_outfit = "Tenue LSSD",
 	ranger_outfit = "Tenue Ranger",
 	ems_outfit = "Tenue EMS",
@@ -1589,7 +1589,7 @@ local my_language = {
 
 	target_place = "Conforama",
 	garbage_collector = "Eboueur",
-	lspd = "SAPD",
+	lspd = "LSPD",
 	lssd = "LSSD",
 	ems = "EMS",
 	job_car_dealer = "Concessionnaire",
